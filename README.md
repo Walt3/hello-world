@@ -1,2 +1,5 @@
 # hello-world
-マンガでわかるGit7・8話実戦用
+繝槭Φ繧ｬ縺ｧ繧上°繧季it7繝ｻ8隧ｱ螳滓姶逕ｨ
+
+#Links
+-[Twitter @walt](https://twitter.com/walt)
