@@ -2,4 +2,4 @@
 マンガでわかるGit7・8話実戦用
 
 #Links
--[Twitter @walt](https://twitter.com/walt)
+-[Twitter @Wax_Mat](https://twitter.com/Wax_Mat)
